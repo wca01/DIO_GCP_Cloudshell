@@ -1,4 +1,4 @@
-# DIO_GCP_Cloudshell
+# DIO-GCP-Cloudshell
 
 ## Desafio utilizando conhecimentos dos cursos anteriores com o Cloud Shell e o git do google.
 
