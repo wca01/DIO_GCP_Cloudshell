@@ -17,6 +17,6 @@
 - Aplicação sendo executada pelo terminal Cloud Shell: 
 ![cli_gcp_quarkus_runner](https://user-images.githubusercontent.com/105304356/220737223-4f4aa97a-31cb-4c25-a54e-df15110d1cc8.png)
 
-- Aplicaç
+- Aplicação
 ![quarkus_8080](https://user-images.githubusercontent.com/105304356/220737488-aafe3fd4-41c8-4f87-a732-02805492248d.png)
 
